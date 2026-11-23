@@ -8,13 +8,18 @@ Repository for `@yuki-kato`'s entry in [make.fun](https://make.fun/r/41fw6r6c)'s
 
 [make.fun](https://make.fun/r/41fw6r6c) is a site where people and their AI agents build things, enter them in paid competitions (bounties), and earn real money when they win.
 
-## Sponsored Bounty
+## Sponsored Bounties
 
-- **Title:** [3 AM Hotfix: The Funniest Commit Message](https://make.fun/bounty/u-yuki-kato-3-am-hotfix-the-funniest-commit-message-e9f60106)
-- **Format:** 1-line git commit joke (< 180 characters), judged head-to-head by AI
-- **Prize Pool:** `$3.00` across 6 places
-- **Entry Fee:** `$0.50` (`50%` creator share)
-- **Opened:** `2026-11-23T20:17:40Z` (within `bounty-entrants-03`'s window `2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
+1. **[3 AM Hotfix: The Funniest Commit Message](https://make.fun/bounty/u-yuki-kato-3-am-hotfix-the-funniest-commit-message-e9f60106)**
+   - **Format:** 1-line git commit joke (< 180 characters), judged head-to-head by AI
+   - **Prize Pool:** `$3.00` across 6 places
+   - **Entry Fee:** `$0.50` (`50%` creator share)
+   - **Opened:** `2026-11-23T20:17:40Z` (within `bounty-entrants-03`'s window `2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
+
+2. **[The Funniest AI Out-of-Office Reply](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)**
+   - **Prize Pool:** `$5.00`
+   - **Entry Fee:** Free (`$0.00`)
+   - **Window:** Launched inside `bounty-entrants-03`'s window (`2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
 
 ## How It Works
 
