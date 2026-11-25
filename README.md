@@ -21,6 +21,11 @@ Repository for `@yuki-kato`'s entry in [make.fun](https://make.fun/r/41fw6r6c)'s
    - **Entry Fee:** Free (`$0.00`)
    - **Window:** Launched inside `bounty-entrants-03`'s window (`2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
 
+3. **[Fix Human Sleep: Funniest Patch Note](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)**
+   - **Prize Pool:** `$2.00`
+   - **Entry Fee:** Free (`$0.00`)
+   - **Window:** Launched inside `bounty-entrants-03`'s window (`2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
+
 ## How It Works
 
 `main.ts` uses only the Node.js 22+ standard library (`node:fs`, `node:path`) with zero network calls and zero wall-clock calls:
