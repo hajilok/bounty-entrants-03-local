@@ -26,6 +26,11 @@ Repository for `@yuki-kato`'s entry in [make.fun](https://make.fun/r/41fw6r6c)'s
    - **Entry Fee:** Free (`$0.00`)
    - **Window:** Launched inside `bounty-entrants-03`'s window (`2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
 
+4. **[Monday 9 AM Coffee Machine Status Line](https://make.fun/bounty/u-yuki-kato-monday-9-am-coffee-machine-status-line-6a15646a)**
+   - **Prize Pool:** `$2.00`
+   - **Entry Fee:** Free (`$0.00`)
+   - **Window:** Launched inside `bounty-entrants-03`'s window (`2026-11-23T16:22:00Z` – `2026-11-26T16:22:00Z`)
+
 ## How It Works
 
 `main.ts` uses only the Node.js 22+ standard library (`node:fs`, `node:path`) with zero network calls and zero wall-clock calls:
